@@ -1,0 +1,4 @@
+I am currently learning devops with Ts Academy.
+The journey has been good. From learning intro to devops, to learning basic linux commands.
+Now we experimenting with git repository, which is a version control tool for easy work
+update and collaboration. This will also aid automation in the future.
