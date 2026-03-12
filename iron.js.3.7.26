@@ -1,2 +1,0 @@
-how una dey?
-  labalaba
