@@ -4,6 +4,7 @@ LOGFILE="system_monitor.log"
 CPU_THRESHOLD=80
 
 echo "Starting system monitoring..."
+echo "##############################"
 echo "Logs will be written to $LOGFILE"
 
 while true
