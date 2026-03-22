@@ -1,0 +1,4 @@
+Hello all, 
+This is my first assignment in git.  
+
+Thank you. 
