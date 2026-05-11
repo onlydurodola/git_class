@@ -1,0 +1,11 @@
+Name: Christopher Cynthia
+
+Git Fundamentals Assignment
+
+Tasks Completed:
+- Forked repository
+- Cloned repository
+- Added a new file
+- Committed changes
+- Pushed changes
+- Created Pull Request
